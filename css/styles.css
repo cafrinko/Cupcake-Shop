@@ -1,0 +1,37 @@
+p.intro {
+  color: #70ee99;
+  align-content: center;
+  width: 80%;
+  text-align: center;
+  text-rendering: geometricPrecision;
+  font-family: fantasy;
+  font-size: 22px;
+  position: static;
+}
+
+body {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/8e/Wide-field_view_of_the_region_around_galaxy_NGC_3783.jpg);
+}
+
+p {
+  text-shadow: #fff;
+  column-rule-width: auto;
+  column-count: 2;
+}
+
+.flashy {
+  color: red;
+  font-style:italic;
+  font: 30px impact;
+}
+
+
+.best {
+  position: relative;
+  clip: rect(0px,20px,0px,20px);
+  border: 10px solid #60ff90;
+}
+
+ul{
+  padding-left: 100px;
+}
