@@ -5,3 +5,10 @@
   font-stretch: extra-condensed;
   font-style: italic;
   }
+img{
+  float: right;
+}
+.heavy{
+  font-size: 30px;
+  font-family: monospace;
+}
